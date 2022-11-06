@@ -1,0 +1,33 @@
+.container {
+  width: 100%;
+}
+
+#profile {
+  border-left: 10px solid red;
+  border-right: 5px solid red;
+  border-top: 2px solid red;
+  border-bottom: 2px solid red;
+}
+#link {
+  border-left: 10px solid blue;
+  border-right: 5px solid blue;
+  border-top: 2px solid blue;
+  border-bottom: 2px solid blue;
+}
+
+
+table {
+  margin: auto;
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+  border-spacing: 0 10px;
+  border: 2px solid black;
+}
+td {
+  border: 1px solid #444444;
+  padding: 10px;
+}
+li {
+  margin: 5px;
+}
